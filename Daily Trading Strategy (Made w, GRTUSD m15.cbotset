@@ -1,0 +1,29 @@
+{
+  "Chart": {
+    "Symbol": "GRTUSD",
+    "Period": "m15"
+  },
+  "Parameters": {
+    "A_4pv0h": "08:00",
+    "A_acxsqs": "18:00",
+    "A_9alwlr": 14,
+    "A_oyiull": 30,
+    "A_uki6yi": 70,
+    "A_kxho2e": 14,
+    "A_6wo21d": 20,
+    "A_q9khh2": 0.25,
+    "A_6uegb9": 40,
+    "A_wxwke": 25,
+    "A_b20bul": 15,
+    "A_twr1m": 0.05,
+    "A_ms8fy": 25,
+    "A_m7g4gj": 0.05,
+    "A_5on2rl": 35,
+    "A_1i8kne": 0.05,
+    "A_u76a2": 15,
+    "A_78ip2": 3,
+    "A_4udimd": false,
+    "A_1xn6dr": 2,
+    "A_t8ate": "21:00"
+  }
+}
